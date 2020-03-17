@@ -1,0 +1,14 @@
+/* Element Selector */
+h1 {color: "red"; }
+
+/* id Selector */
+#p01 {font-size: "60px"; }
+
+/* class Selector */
+.main {background-color: "blue"; }
+
+/* Universal Selector */
+* {font-family: "verdana";
+
+/* Multiple elemets Selector */
+h1,h2,p {color: "orange";}

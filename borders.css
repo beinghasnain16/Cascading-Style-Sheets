@@ -1,0 +1,40 @@
+/* Border Styles 
+top right bottom left*/
+p {
+border-style: dotted; }
+h1 {
+border-top-style: double;}
+/*
+dashed
+solid
+double
+groove
+ridge
+inset
+outset
+none
+hidden
+mix 
+*/
+
+/* Border Widths */
+p {border-width: 1px 2px 3px 4px }
+/*           top bottom left right 
+thin medium thick /*
+
+/* Border Color */
+p {border-color: red green blue yellow}
+/* rgb(255,255,255) #000000 hsl(0,100%,100%) */
+
+/* Border Shorthand */
+p {
+border-left: 1px solid black }
+
+/* Round Borders */
+p {border-radius: 12px }
+
+/*Outlines*/
+p { outline-width:1px
+    outline-style:solid
+    outline-color:black 
+}

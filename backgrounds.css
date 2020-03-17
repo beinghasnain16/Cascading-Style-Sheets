@@ -1,0 +1,17 @@
+div {
+background-image: url("example.png");
+background-repeat: repeat-x;
+background-repeat: no-repeat;
+background-position: right top;
+background-attachment: fixed or scroll; 
+}
+
+/*Background ShortHand
+background-color
+background-image
+background-repeat
+background-attachment
+background-position */
+body {
+  background: #ffffff url("img_tree.png") no-repeat right top;
+}
